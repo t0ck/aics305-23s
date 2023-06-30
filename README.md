@@ -4,7 +4,7 @@
 ## 데이터셋에 대한 정보
 본 프로젝트에서 사용한 데이터셋은 2022년도 IEEE Access Volume: 10에 게시된 *Edge-IIoTset: A New Comprehensive Realistic Cyber Security Dataset of IoT and IIoT Applications for Centralized and Federated Learning* 논문에서 제공하는 **Edge-IIoTset-dataset.zip**을 이용하였으며, 해당 데이터셋은 [IEEE-Dataport](http://ieee-dataport.org/8939 "Edge-IIoTset-dataset.zip")에서 접근 가능합니다.
 
-전처리된 데이터셋은 리포지토리에 포함된 [dataset](https://github.com/t0ck/aics305-23s/tree/main/dataset "dataset")폴더에서 확인하실 수 있습니다.
+전처리된 데이터셋은 리포지토리에 포함된 [dataset](https://github.com/t0ck/aics305-23s/tree/master/dataset "dataset")폴더에서 확인하실 수 있습니다.
 
 ## 파일 정보
 파일의 정보는 다음과 같습니다.
